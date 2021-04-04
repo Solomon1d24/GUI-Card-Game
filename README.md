@@ -8,7 +8,7 @@ Rule 3: The dealer wins if both rule 1 and rule 2 cannot distinguish the winner.
 
 
 # How to start the game?
-Put all the above files together
+Put all the above files together\n
 In the terminal reach the location of this folder and type:
 javac Game_operator.java
 java Game_operator
